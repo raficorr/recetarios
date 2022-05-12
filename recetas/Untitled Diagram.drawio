@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T10:41:38.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="17.5.0" etag="zIw9tMQFvHFQzsNH0QRV" type="github"><diagram id="cs8R9iDombsIlkGdCLik">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-12T10:57:47.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="67lhBQ4B9XsROdwma1H1" version="17.5.0" type="github">
+  <diagram id="cs8R9iDombsIlkGdCLik" name="Page-1">
+    <mxGraphModel dx="2052" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-1" value="Museums" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontSize=14;fontColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="40" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-2" value="Exhibición" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-3" value="" style="shape=triangle;direction=south;fillColor=#0085FC;strokeColor=none;perimeter=none;sketch=0;" vertex="1" parent="H6eTwrk0VmKqa4Q4uRd7-2">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-6" value="Name" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="180" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-7" value="Raphael" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="210" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-10" value="Descripition" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="260" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-11" value="One of the first - ever exhibitions to explore Raphael&#39;s complete career." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="290" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-14" value="Sponsor" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="370" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-15" value="01&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-22" value="Sign in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="460" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-23" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-24" value="Crear Exhibición" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="H6eTwrk0VmKqa4Q4uRd7-23">
+          <mxGeometry width="85" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-25" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="H6eTwrk0VmKqa4Q4uRd7-23">
+          <mxGeometry width="85" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-28" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="H6eTwrk0VmKqa4Q4uRd7-23">
+          <mxGeometry y="1" width="85" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6eTwrk0VmKqa4Q4uRd7-31" value="Cancel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="45" y="460" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
